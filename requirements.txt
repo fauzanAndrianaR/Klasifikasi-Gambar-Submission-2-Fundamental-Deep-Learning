@@ -1,0 +1,11 @@
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
+opencv-python
+Pillow
+scikit-image
+scikit-learn
+tensorflow
+keras
